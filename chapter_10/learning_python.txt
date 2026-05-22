@@ -1,0 +1,5 @@
+In Python you can create functions to reuse code efficiently.
+In Python you can handle errors using try and except blocks.
+In Python you can store data in lists, tuples, sets, or dictionaries.
+In Python you can use libraries like pandas and NumPy for data analysis.
+In Python you can write concise code with list comprehensions.

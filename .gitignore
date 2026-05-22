@@ -1,3 +1,33 @@
-.idea
+# IDE
+.idea/
+*.iml
+
+# Virtual environments
+.venv/
+venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Packages and builds
+*.egg-info/
+dist/
+build/
+
+# Logs & temp
+*.log
+*.tmp
+
+# Other
+collection_of_resources/
 pyproject.toml
 requirements.txt
+
+
+
+
+
+
+
